@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/CryptoCurrency/PriceMint/Currecny.Business/Currency.Business.csproj",
+      "projectUniqueName": "/Users/lucifer/Projects/Repos/CryptoCurrency/Currecny.Business/Currency.Business.csproj",
       "projectName": "Currency.Business",
-      "projectPath": "/Users/lucifer/Projects/Repos/DotNet/CryptoCurrency/PriceMint/Currecny.Business/Currency.Business.csproj",
+      "projectPath": "/Users/lucifer/Projects/Repos/CryptoCurrency/Currecny.Business/Currency.Business.csproj",
       "packagesPath": "/Users/lucifer/.nuget/packages/",
-      "outputPath": "/Users/lucifer/Projects/Repos/DotNet/CryptoCurrency/PriceMint/Currecny.Business/obj/",
+      "outputPath": "/Users/lucifer/Projects/Repos/CryptoCurrency/Currecny.Business/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lucifer/.nuget/NuGet/NuGet.Config"

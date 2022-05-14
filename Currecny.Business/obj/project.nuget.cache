@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T/xOOxMlAwub7dVXs+aGtlvp6afKjzLhL3ionBcsnZ4Fb5gZbpnn65p9uC1A3YKocIKP1JHV6kAwjjep+0J16w==",
+  "dgSpecHash": "AOKvd5lngYZ7yJ4CL5nmhqPHFOQFwe1Eqm5zNqgeKV0fJshZLsNI9/WACanEaneup8goevnXRF7M94oYazXLrw==",
   "success": true,
-  "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/CryptoCurrency/PriceMint/Currecny.Business/Currency.Business.csproj",
+  "projectFilePath": "/Users/lucifer/Projects/Repos/CryptoCurrency/Currecny.Business/Currency.Business.csproj",
   "expectedPackageFiles": [
     "/Users/lucifer/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
